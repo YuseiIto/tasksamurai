@@ -1,0 +1,3 @@
+[submodule "docker-taskd"]
+	path = docker-taskd
+	url = git@github.com:ogarcia/docker-taskd.git
